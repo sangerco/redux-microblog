@@ -1,0 +1,8 @@
+.navbar a {
+    margin: 2rem;
+    color: navy;
+}
+
+.navbar a.active {
+    color: royalblue;
+}
